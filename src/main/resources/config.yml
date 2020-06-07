@@ -1,0 +1,19 @@
+MESSAGES:
+  LUCKY_REWARD:
+    TITLE: '&e&lLUCKY'
+    SUBTITLE: Fishing Reward
+  AVERAGE_REWARD:
+    TITLE: '&a&lAVERAGE'
+    SUBTITLE: Fishing Reward
+  FAIR_REWARD:
+    TITLE: '&d&lFAIR'
+    SUBTITLE: Fishing Reward
+  UNLUCKY_REWARD:
+    TITLE: '&f&lUNLUCKY'
+    SUBTITLE: Fishing Reward
+  NONE_REWARD:
+    TITLE: '&4&lNONE'
+    SUBTITLE: Fishing Reward
+  TRY_AGAIN:
+    TITLE: '&4&lTry Again ddd'
+    SUBTITLE: Better luck next time

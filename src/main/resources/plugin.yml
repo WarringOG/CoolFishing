@@ -1,0 +1,4 @@
+name: CoolFishing
+version: ${project.version}
+main: com.warring.fishing.CoolFishing
+authors: [Warring]
